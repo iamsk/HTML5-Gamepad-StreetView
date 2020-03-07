@@ -125,9 +125,9 @@ var streetView;
 var svService;
 var marker;
 // Default view direction
-var pov = {heading: 225, pitch: 0};
+var pov = {heading: 90, pitch: 0};
 // Start in Paris
-var coords = {lat: 48.8592236, lng: 2.2972824};
+var coords = {lat: 60.06912, lng: 6.5487829};
 
 function initMap() {
   // Map panel
